@@ -37,7 +37,7 @@
 
 5.  Giao tiếp với Copilot để generate các file test code (thường chứa trong thư mục `e2e`).
 
-6.  Chạy script của Playwright để thực hiện testing:
+6.  Chạy script để thực hiện testing:
     ```bash
     ./run-interactive-demo.sh
     ```
